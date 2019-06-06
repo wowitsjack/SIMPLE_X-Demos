@@ -1,7 +1,8 @@
 # SIMPLE_X Software Reverse Engineering Resources
-The `Simple` series is binaries are designed to teach newcomers basic software reverse engineering techniques and skills.
+The `Simple` series of binaries are designed to teach newcomers basic software reverse engineering techniques and skills.
 
-The target binaries begin with no protection, and gradually increase in difficulty. Level 1 `Simple_1` has no protection, and a beginner reverse engineer shouldn't find it too intimidating.
+The target binaries begin with no protection, and gradually increase in difficulty. 
+Level 1 `Simple_1` has no protection, and a beginner reverse engineer shouldn't find it too intimidating.
 
 
 ## Pictures
