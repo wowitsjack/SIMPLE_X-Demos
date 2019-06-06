@@ -3,12 +3,6 @@ The `Simple` series is binaries are designed to teach newcomers basic software r
 
 The target binaries begin with no protection, and gradually increase in difficulty. Level 1 `Simple_1` has no protection, and a beginner reverse engineer shouldn't find it too intimidating.
 
-##Requirements:
-
-Requires ``shodan`` binary.
-
-``sudo apt install shodan` (Linux)
-``sudo brew install shodan`` (macOS)
 
 ## Pictures
 
