@@ -19,6 +19,6 @@ Requires ``shodan`` binary.
 ![x64dbg Strings](https://i.imgur.com/oMW3igL.png)
 
 ### Simple_1 control-flow graph view in x64dbg
-![x64dbg Graph](https://i.imgur.com/oYkEFN0.png)
+![x64dbg Graph](https://i.imgur.com/wJEBAXf.png)
 
 
